@@ -1,3 +1,4 @@
+## About Me
 - In 2010-2018, I was working as a freelencer for many companies, and created many projects: Gaming, Desktop, Web, Backend, Mobile etc.
 - In 2018-2020, I was working as a part-time software engineer in a department at Boğaziçi University and creating some projects related to the university.
 - In 2020-2022, I was working as a part-time full-stack developer in Boğaziçi Information Center and creating both frontend and backend applications.
@@ -8,7 +9,7 @@
   - Writing Backend, Mobile, Web codes (Spring Boot, React Native, NextJS, ReactJS, NodeJS)<br>    
   - Creating all technical accounts in different platforms and managing them (Github, AWS, Firebase, Google Cloud, Docker, PlayStore, AppStore etc.)
 
-
+## Tech Stacks
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -25,10 +26,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-### Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilaltekin)
 
-### My Organizations 
+## My Organizations 
 <img width="1440" alt="Screen Shot 2022-08-21 at 2 02 39 AM" src="https://bilaltekin.s3.eu-south-1.amazonaws.com/cv/defimec-github.png">
 
 #
