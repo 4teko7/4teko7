@@ -4,7 +4,7 @@
 - In 2020-2022, I was working as a part-time full-stack developer in Boğaziçi Information Center and creating both frontend and backend applications.
 - In 2020-2022, I have worked as a CTO at Tamer Capital. Tamer Capital is a venture building and investment platform for new generation startups.<br>At Tamer Capital, We created 9 startups and I was the CTO of all the startups. I have managed all the technical parts of the projects. These technical parts include:<br>    
   - Creating and managing teams (Every startup consists of about 10-20 developers: Mobile, Backend, Web, AI, DevOps, Blockchain)<br>    
-  - Designing technical architectures of all projects (Database, Backend, DevOps, Mobile, Blockchain etc.<br>    
+  - Designing technical architectures of all projects (Database, Backend, DevOps, Mobile, Blockchain etc.)<br>    
   - Creating all DevOps systems, and managing all the servers, databases, ... (Docker, Packer, Terraform, Github Workflow, MongoDB, PostgreSQL)<br>    
   - Writing Backend, Mobile, Web codes (Spring Boot, React Native, NextJS, ReactJS, NodeJS)<br>    
   - Creating all technical accounts in different platforms and managing them (Github, AWS, Firebase, Google Cloud, Docker, PlayStore, AppStore etc.)
