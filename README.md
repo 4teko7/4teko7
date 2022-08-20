@@ -27,3 +27,16 @@
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilaltekin)
+
+### My Organizations 
+<img width="1440" alt="Screen Shot 2022-08-21 at 2 02 39 AM" src="https://bilaltekin.s3.eu-south-1.amazonaws.com/cv/defimec-github.png">
+
+#
+
+<img width="1440" alt="Screen Shot 2022-08-21 at 2 04 41 AM" src="https://bilaltekin.s3.eu-south-1.amazonaws.com/cv/alicibul-github.png">
+
+#
+
+<img width="1440" alt="Screen Shot 2022-08-21 at 2 04 32 AM" src="https://bilaltekin.s3.eu-south-1.amazonaws.com/cv/fitty-github.png">
+
+
