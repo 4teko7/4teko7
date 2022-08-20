@@ -1,4 +1,3 @@
-# About Me:
 - In 2010-2018, I was working as a freelencer for many companies, and created many projects: Gaming, Desktop, Web, Backend, Mobile etc.
 - In 2018-2020, I was working as a part-time software engineer in a department at Boğaziçi University and creating some projects related to the university.
 - In 2020-2022, I was working as a part-time full-stack developer in Boğaziçi Information Center and creating both frontend and backend applications.
@@ -9,8 +8,6 @@
   - Writing Backend, Mobile, Web codes (Spring Boot, React Native, NextJS, ReactJS, NodeJS)<br>    
   - Creating all technical accounts in different platforms and managing them (Github, AWS, Firebase, Google Cloud, Docker, PlayStore, AppStore etc.)
 
-
-# Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
