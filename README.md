@@ -1,8 +1,8 @@
 ## About Me
-- In 2010-2018, I was working as a freelencer for many companies, and created many projects: DevOps, Backend, Mobile, Web, Gaming, Desktop  etc.
-- In 2018-2020, I was working as a part-time software engineer in a department at Boğaziçi University and creating some projects related to the university.
-- In 2020-2022, I was working as a part-time full-stack developer in Boğaziçi Information Center and creating both frontend and backend applications.
-- In 2020-2022, I have worked as a CTO at Tamer Capital. Tamer Capital is a venture building and investment platform for new generation startups.<br>At Tamer Capital, We created 9 startups and I was the CTO of all the startups. I have managed all the technical parts of the projects. These technical parts include:<br>    
+- In 2010-2018, freelencer for many companies, and created many projects: DevOps, Backend, Mobile, Web, Gaming, Desktop  etc.
+- In 2018-2020, software engineer in a department at Boğaziçi University and creating some projects related to the university.
+- In 2020-2022, full-stack developer in Boğaziçi Information Center and creating both frontend and backend applications.
+- In 2020-2022, CTO at Tamer Capital. Tamer Capital is a venture building and investment platform for new generation startups.<br>At Tamer Capital, We created 9 startups and I was the CTO of all the startups. I have managed all the technical parts of the projects. These technical parts include:<br>    
   - Creating and managing teams (Every startup consists of about 10-20 developers: Mobile, Backend, Web, AI, DevOps, Blockchain)<br>    
   - Designing technical architectures of all projects (Database, Backend, DevOps, Mobile, Blockchain etc.)<br>    
   - Creating all DevOps systems, and managing all the servers, databases, ... (Docker, Packer, Terraform, Github Workflow, MongoDB, PostgreSQL)<br>    
