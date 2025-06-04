@@ -1,7 +1,5 @@
 <h1 align="center">Entrepreneur & Senior Full Stack Engineer</h1>
 
-<hr class="dotted">
-
 ### 🛠 Tech Stack
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
