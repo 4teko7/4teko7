@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 I'm Bilal</h1>
-<h3 align="center">Entrepreneur & Senior Full Stack Engineer</h3>
+<h1 align="center">Entrepreneur & Senior Full Stack Engineer</h1>
 
 <hr class="dotted">
 
