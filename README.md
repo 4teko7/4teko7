@@ -1,4 +1,9 @@
-## Tech Stacks
+<h1 align="center">Hi 👋 I'm Bilal</h1>
+<h3 align="center">Entrepreneur & Senior Full Stack Engineer</h3>
+
+<hr class="dotted">
+
+### 🛠 Tech Stack
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -11,6 +16,27 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
+<hr class="dotted">
+
+### 📊 GitHub Analytics
+<!--![](https://github-readme-stats.vercel.app/api?username=4teko7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=4teko7&theme=dark&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=4teko7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<hr class="dotted">
+
+![](https://github-profile-trophy.vercel.app/?username=4teko7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<hr class="dotted">
+
+### 📩 Contact Me ! 
+
+<a href="mailto:info@bilaltekin.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+
+<hr class="dotted">
+
+
+<img src="https://komarev.com/ghpvc/?username=4teko7&label=Profile%20Views&color=237b5e&style=flat-square" alt="Bilal Tekin" />
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilaltekin)
-
