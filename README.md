@@ -35,4 +35,4 @@
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilaltekin)
 
-<img src="https://komarev.com/ghpvc/?username=4teko7&label=Profile%20Views&color=237b5e&style=flat-square" alt="Bilal Tekin" />
+<!--<img src="https://komarev.com/ghpvc/?username=4teko7&label=Profile%20Views&color=237b5e&style=flat-square" alt="Bilal Tekin" /> -->
