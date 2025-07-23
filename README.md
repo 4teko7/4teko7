@@ -1,4 +1,4 @@
-<h1 align="center">Entrepreneur & Senior Full Stack Engineer</h1>
+<h1 align="center">Senior Full Stack Engineer / Team Lead</h1>
 
 ### 🛠 Tech Stack
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
